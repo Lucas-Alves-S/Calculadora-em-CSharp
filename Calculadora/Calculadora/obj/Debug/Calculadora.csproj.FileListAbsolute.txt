@@ -1,0 +1,22 @@
+H:\POO\Primeira Etapa\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+H:\POO\Primeira Etapa\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+H:\POO\Primeira Etapa\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+H:\POO\Primeira Etapa\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+H:\POO\Primeira Etapa\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+H:\POO\Primeira Etapa\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+H:\POO\Primeira Etapa\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+H:\POO\Primeira Etapa\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+H:\POO\Primeira Etapa\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+H:\POO\Primeira Etapa\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+H:\POO\Primeira Etapa\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+S:\Cotemig\POO\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+S:\Cotemig\POO\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+S:\Cotemig\POO\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+S:\Cotemig\POO\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+S:\Cotemig\POO\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+S:\Cotemig\POO\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+S:\Cotemig\POO\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+S:\Cotemig\POO\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+S:\Cotemig\POO\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+S:\Cotemig\POO\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+S:\Cotemig\POO\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
